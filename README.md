@@ -84,7 +84,7 @@
 <h2>📫 Let's Connect!</h2>
 <ul>
     <li>Email: <a href="mailto:aasthakkataria@gmail.com">aasthakkataria@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/aasthakataria">Aastha Kataria</a></li>
+    <li>LinkedIn: <a href="https://in.linkedin.com/in/aastha-kataria-b5847426b">Aastha Kataria</a></li>
     <li>GitHub: <a href="https://github.com/faith250">faith250</a></li>
     <li>Twitter: <a href="https://twitter.com/Faithwintnsky">@Faithwintnsky</a></li>
 </ul>
