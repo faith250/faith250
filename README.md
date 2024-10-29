@@ -1,12 +1,90 @@
-<h1 align="center">Hi 👋, I'm Aastha kataria</h1>
-<h3 align="center">A person who likes solving real world problems</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aastha Ketan Kataria's GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        h3 {
+            color: #777;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #f9f9f9;
+        }
+        .projects, .skills, .achievements, .hobbies {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
 
-- 📫 How to reach me **aasthakkataria@gmail.com**
+<div class="container">
+    <h1>Hi there! I'm Aastha Ketan Kataria 👋</h1>
+    <p>I'm a passionate Information Technology student with a focus on <strong>Artificial Intelligence, Machine Learning,</strong> and <strong>User Interface Design</strong>. Currently in my final year of B.Tech at <strong>K J Somaiya College of Engineering</strong> in Mumbai, I'm enthusiastic about exploring the intersection of <strong>technology and neuroscience</strong> and contributing to impactful projects.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@faithwintnsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faithwintnsky" height="30" width="40" /></a>
-</p>
+    <h2>🔧 Technologies & Skills</h2>
+    <ul class="skills">
+        <li><strong>Languages:</strong> Java, Python, C, C++, JSON, SQL, PHP, JavaScript, HTML/CSS</li>
+        <li><strong>Libraries & Frameworks:</strong> NumPy, Pandas, OpenCV, React, Kivy, Ionic</li>
+        <li><strong>Tools:</strong> MATLAB (Simulink, Stateflow), Arduino, AutoCAD, SolidWorks</li>
+        <li><strong>Currently Learning:</strong> Figma, AI & ML, Mandarin, Raspberry Pi, Wildlife Photography</li>
+    </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+    <h2>📂 Notable Projects</h2>
+    <ul class="projects">
+        <li><strong>Fungal Infection Detection:</strong> Developing a CNN model for skin infection detection.</li>
+        <li><strong>Brain Wave Mapping for Rehabilitation:</strong> Building a system to control games with brain waves for post-neurosurgery rehab.</li>
+        <li><strong>Diabetes Monitoring through Sweat:</strong> Utilizing sweat sensors for continuous glucose monitoring.</li>
+        <li><strong>Nisrag - Sewage Cleaner:</strong> Designing a robot for sewer cleaning with a mini-robot for data collection.</li>
+        <li><strong>Groundwater Mapping:</strong> Drone-based analysis of groundwater levels using electromagnetic sensors.</li>
+    </ul>
+
+    <h2>🏆 Participation & Achievements</h2>
+    <ul class="achievements">
+        <li><strong>Smart India Hackathon 2024:</strong> Developed a Hospital Management App (cleared internal selection).</li>
+        <li><strong>ISRO Bharatiya Antariksh Hackathon 2024:</strong> Thrilled to participate in ISRO's hackathon.</li>
+        <li><strong>Myntra WeForShe Hackathon 2024:</strong> Reached the pre-finale stage.</li>
+    </ul>
+
+    <h2>🌱 Training & Hobbies</h2>
+    <ul class="hobbies">
+        <li><strong>Sea Cadet Corps:</strong> Civilian training in affiliation with the Indian Navy (2015-2019).</li>
+        <li><strong>Hobbies:</strong> Reading, watching documentaries, skating, gymnastics, chess, swimming, badminton, table tennis, and rowing.</li>
+    </ul>
+
+    <h2>📫 Let's Connect!</h2>
+    <ul>
+        <li><strong>Email:</strong> <a href="mailto:aasthakkataria@gmail.com">aasthakkataria@gmail.com</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aastha-kataria-b5847426b/">Aastha Kataria</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/faith250">faith250</a></li>
+        <li><strong>Twitter:</strong> <a href="https://x.com/Faithwintnsky">@Faithwintnsky</a></li>
+    </ul>
+
+    <p>Thanks for stopping by! 😊 Looking forward to connecting and collaborating on innovative projects.</p>
+</div>
+
+</body>
+</html>
