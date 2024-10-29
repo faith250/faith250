@@ -9,22 +9,28 @@
             font-family: Arial, sans-serif;
             margin: 20px;
             line-height: 1.6;
-        }
-        h1 {
+            background-color: #f9f9f9;
             color: #333;
         }
+        h1 {
+            color: #0056b3;
+        }
         h2 {
-            color: #555;
+            color: #333;
         }
         h3 {
-            color: #777;
+            color: #555;
         }
         a {
-            color: #0066cc;
+            color: #007bff;
             text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
         }
         .container {
             max-width: 800px;
@@ -32,10 +38,7 @@
             padding: 20px;
             border: 1px solid #ddd;
             border-radius: 8px;
-            background: #f9f9f9;
-        }
-        .projects, .skills, .achievements, .hobbies {
-            margin-bottom: 20px;
+            background: white;
         }
     </style>
 </head>
@@ -43,10 +46,10 @@
 
 <div class="container">
     <h1>Hi there! I'm Aastha Ketan Kataria 👋</h1>
-    <p>I'm a passionate Information Technology student with a focus on <strong>Artificial Intelligence, Machine Learning,</strong> and <strong>User Interface Design</strong>. Currently in my final year of B.Tech at <strong>K J Somaiya College of Engineering</strong> in Mumbai, I'm enthusiastic about exploring the intersection of <strong>technology and neuroscience</strong> and contributing to impactful projects.</p>
+    <p>I’m a passionate Information Technology student specializing in <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>User Interface Design</strong>. Currently, I’m pursuing my B.Tech at <strong>K J Somaiya College of Engineering</strong> in Mumbai. I’m excited about exploring the intersection of technology and neuroscience.</p>
 
     <h2>🔧 Technologies & Skills</h2>
-    <ul class="skills">
+    <ul>
         <li><strong>Languages:</strong> Java, Python, C, C++, JSON, SQL, PHP, JavaScript, HTML/CSS</li>
         <li><strong>Libraries & Frameworks:</strong> NumPy, Pandas, OpenCV, React, Kivy, Ionic</li>
         <li><strong>Tools:</strong> MATLAB (Simulink, Stateflow), Arduino, AutoCAD, SolidWorks</li>
@@ -54,7 +57,7 @@
     </ul>
 
     <h2>📂 Notable Projects</h2>
-    <ul class="projects">
+    <ul>
         <li><strong>Fungal Infection Detection:</strong> Developing a CNN model for skin infection detection.</li>
         <li><strong>Brain Wave Mapping for Rehabilitation:</strong> Building a system to control games with brain waves for post-neurosurgery rehab.</li>
         <li><strong>Diabetes Monitoring through Sweat:</strong> Utilizing sweat sensors for continuous glucose monitoring.</li>
@@ -63,14 +66,14 @@
     </ul>
 
     <h2>🏆 Participation & Achievements</h2>
-    <ul class="achievements">
+    <ul>
         <li><strong>Smart India Hackathon 2024:</strong> Developed a Hospital Management App (cleared internal selection).</li>
-        <li><strong>ISRO Bharatiya Antariksh Hackathon 2024:</strong> Thrilled to participate in ISRO's hackathon.</li>
+        <li><strong>ISRO Bharatiya Antariksh Hackathon 2024:</strong> Participated in ISRO's hackathon.</li>
         <li><strong>Myntra WeForShe Hackathon 2024:</strong> Reached the pre-finale stage.</li>
     </ul>
 
     <h2>🌱 Training & Hobbies</h2>
-    <ul class="hobbies">
+    <ul>
         <li><strong>Sea Cadet Corps:</strong> Civilian training in affiliation with the Indian Navy (2015-2019).</li>
         <li><strong>Hobbies:</strong> Reading, watching documentaries, skating, gymnastics, chess, swimming, badminton, table tennis, and rowing.</li>
     </ul>
