@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Aastha Ketan Kataria 👋</h1>
-<p><em>If your Why is powerful your how becomes easy - Jim Rohn</em></p>
+<p><em>"If your Why is powerful your how becomes easy" - Jim Rohn</em></p>
 <p>I am a person who loves to read, learn, implement, build logic, and research technology, math unfolding in nature, and computational neuroscience, especially brain uploading, which drives me to move ahead as it helps me answer the why and how of things.</p>
 
 <h2>🔧 Technologies & Skills</h2>
