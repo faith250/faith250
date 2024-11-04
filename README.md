@@ -14,7 +14,11 @@
 <p>Selected by the Agastya International Foundation, The Schools Challenge Volunteer Program, and J.P. Morgan Chase, helping school students in a STEM-based project.</p>
 
 <h2>📚 Personal Research</h2>
+<h3>>🌿 && ➕➖ Math in Nature</h3>
 <p>Exploring math in nature and figuring out algorithms with simulations: <a href="https://sleepy-chanter-0d0.notion.site/Math-in-nature-book-series-9c068326c12a49f4b5f504ed1dea09a7?pvs=4">Math in Nature Book Series</a></p>
+<h3>🧬 Neuroscience and Biotechnology</h3>
+<p>This section is dedicated to journaling my lectures and documenting interesting new topics emerging in the fields of neuroscience and biotechnology.Exploring recent advancements, innovative research findings, and the interdisciplinary connections between these two dynamic areas. Each entry will include summaries of key concepts, personal reflections, and insights that inspire further exploration and understanding.</p>
+
 
 <h2>🏆 Hackathon Participation & Achievements</h2>
 <ul>
