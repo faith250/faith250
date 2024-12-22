@@ -5,7 +5,7 @@
 <h2>🔧 Technologies & Skills</h2>
 <ul>
     <li><strong>Languages:</strong> Java, Python, C, C++, JSON, SQL, PHP, JavaScript, HTML/CSS</li>
-    <li><strong>Libraries & Frameworks:</strong> NumPy, Pandas, OpenCV, React, Kivy, Ionic, Django</li>
+    <li><strong>Libraries & Frameworks:</strong> NumPy, Pandas, OpenCV, React, Kivy, Ionic, Django,Django Rest,React,p5.js</li>
     <li><strong>Tools:</strong> MATLAB (Simulink, Stateflow), Arduino, AutoCAD, SolidWorks</li>
     <li><strong>OS:</strong> ROS with Hector SLAM for underwater robot path mapping</li>
 </ul>
@@ -22,10 +22,11 @@
 
 <h2>🏆 Hackathon Participation & Achievements</h2>
 <ul>
-    <li>Smart India Hackathon 2024: Developed a Hospital Management App (cleared internal selection)</li>
+    <li>Smart India Hackathon 2024: Developed a Hospital Management App for the government of India (Winner)</li>
+    <li>Myntra WeForShe Hackathon 2024: Engaging Customer With mood-based recommendations ,virtual closet and Whatsapp Sharing (Pre-finalist)</li>
     <li>ISRO Bharatiya Antariksh Hackathon 2024: Participated in ISRO's hackathon</li>
-    <li>Myntra WeForShe Hackathon 2024: Reached the pre-finale stage</li>
     <li>Codesciance 2024 - Thadomal Sahani: Selected and participated</li>
+    <li>Smart India Hackathon 2023: Developed a Mental Health App (cleared internal selection)</li>
     <li>INSEF Pune: 3rd prize winner for multipurpose farm equipment (2019-2022)</li>
     <li>The Big Idea Summit: Participated in the Bhanushali Chamber of Commerce event in December 2018</li>
 </ul>
@@ -62,9 +63,11 @@
 
 <h2>📂 Ongoing Projects</h2>
 <ul>
+    
     <li>Brain Wave Mapping for Rehabilitation: Building a system to control games with brain waves for post-neurosurgery rehab.</li>
     <li>Fungal Infection Detection: Developing a CNN model for skin infection detection.</li>
     <li>Diabetes Monitoring through Sweat: Utilizing sweat sensors for continuous glucose monitoring.</li>
+    <li>Path planning algorithms:Usinf Rp lidar to map , detect and collect trash from the rivers.</li>
 </ul>
 
 <h2>🛠 Mini Projects</h2>
@@ -72,7 +75,7 @@
     <li>Library management website using PHP and MySQL</li>
     <li>Mindbuddy: Mental health platform for frontline health workers (quizzes with data analysis, meditation music, games, doctor consultation, fitness tracker)</li>
     <li>Fitness tracker app using Python with animated graphs and datasets</li>
-    <li>Currently working on a website for translating research papers with dictionaries and text-to-speech converter in multiple languages</li>
+    <li>Website for translating research papers with dictionaries and text-to-speech converter in multiple languages</li>
     <li>Coffee bean selling website using Python</li>
 </ul>
 
